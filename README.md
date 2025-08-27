@@ -1,4 +1,4 @@
-# **Nome em Aberto**  🔎 📖
+# **Memorize**  🔎 📖
 Uma aplicação simples e intuitiva para estudo e memorização baseada no conceito de repetição espaçada, inspirada no Anki.Você pode criar, editar, organizar e revisar seus cartões de forma eficiente, acompanhando seu progresso em uma interface  funcional.
 
 ---
@@ -15,7 +15,7 @@ Uma aplicação simples e intuitiva para estudo e memorização baseada no conce
 
   
 
-### 📊 **Estatísticas ( Ainda não decidida Implementação)**
+### 📊 **Estatísticas**
 
 - Acompanhe seu desempenho com métricas como:
 
